@@ -15,8 +15,8 @@ This is a voice commanding assistant service in Python. It can recognize human s
 - sys <br>
 - requests <br>
 - json <br>
-- os
-- ctypes
+- os <br>
+- ctypes <br>
 
-<h3>Skills:</h3>
+<h3>Skills:</h3> <br>
 The implemented voice assistant can perform the following task it can open YouTube, Gmail, Google chrome and more. Predict current time, search Wikipedia to abstract required data, predict weather in different cities, get top headline news and can answer computational questions too.

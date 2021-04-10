@@ -1,5 +1,6 @@
 # (c) 2020 - Akash Sarkar
 # nixAssistant
+# MIT License
 
 import sys
 sys.path.insert(0, 'E:/Projects/Python/myAssistant/nixAssistant/root/')

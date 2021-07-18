@@ -1,4 +1,4 @@
-# python-desktop-assistant
+# Python Desktop Assistant
 This is a voice commanding assistant service in Python. It can recognize human speech, talk to user and execute some basic commands. <br>
 
 <h3>Packages required:</h3>
